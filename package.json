@@ -1,0 +1,15 @@
+{
+  "name": "breakandbrewlandingpage",
+  "version": "1.0.0",
+  "description": "Break & Brew - Billiardbar Landing Page",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Static HTML site - no build needed'"
+  },
+  "keywords": ["landing-page", "static-site"],
+  "author": "Leonard Klemm",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.12"
+  }
+}
